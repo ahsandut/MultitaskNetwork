@@ -1,0 +1,7 @@
+torch==2.0.1
+torchvision
+numpy
+opencv-python
+scikit-image
+scipy
+scikit-learn
