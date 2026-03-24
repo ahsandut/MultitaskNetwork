@@ -40,6 +40,5 @@ L_{total} = 1.2 \times L_{dice} + 0.03 \times L_{focal}
 ## Placeholder weights
 
 - `checkpoints/best_fold0.pth` … `best_fold4.pth` are **randomly initialized weights**.
-- These allow reviewers to **load the model and run inference**, but metrics will not match the paper.
 - Full trained weights are **not shared** due to patient data privacy.
 
